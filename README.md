@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/bats.svg" width="100%" alt="flying bats" />
+</p>
+
 # 🖤 Hi there, I'm Fernanda 💜 🦇
 
 Passionate about **technology** and about creating things that make life easier.  
