@@ -8,13 +8,6 @@ Currently studying **Computer Science** 💻 and truly passionate about
 - 🖤 I like to keep things dark & minimal, just like my code.  
 - 💜 Always chasing growth and evolution.  
 - 🦇 Night owl coder — better ideas come in the dark.  
- 
-
-- 🔮 Goal: work as a **Forensic Computer Expert** and a **Full-Stack Developer**.  
-- 🖤 I like to keep things dark & minimal, just like my code.  
-- 💜 Always chasing growth and evolution.  
-- 🦇 Night owl coder — better ideas come in the dark.  
-
 ---
 
 ## 🧰 Tech Stack 🦇
