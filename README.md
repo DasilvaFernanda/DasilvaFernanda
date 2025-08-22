@@ -18,8 +18,6 @@ Currently studying **Computer Science** 💻 and truly passionate about
 ![Electron](https://img.shields.io/badge/Electron-2d2d2d?style=for-the-badge&logo=electron&logoColor=9feaf9)
 ![HTML5](https://img.shields.io/badge/HTML5-2d2d2d?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-2d2d2d?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/Git-2d2d2d?style=for-the-badge&logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/VS%20Code-2d2d2d?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7)
 
 ---
 
