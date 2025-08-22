@@ -23,15 +23,6 @@ Currently studying **Computer Science** 💻 and truly passionate about
 
 ---
 
-## 📌 Highlights 🦇
-- 🔐 **Password Generator (Electron)** → desktop app to create strong passwords, with a dark UI.  
-- 🐱 **Cat Quiz (Python)** → fun quiz using arrays/lists, built to practice logic.  
-- 📝 **To-Do / Shopping List (JS)** → simple CRUD with DOM and localStorage.  
-
-*(Repositories contain screenshots and sometimes even a demo video.)*
-
----
-
 ## 📊 GitHub Stats 🦇
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DasilvaFernanda&show_icons=true&theme=tokyonight&title_color=9f5cc4&icon_color=9f5cc4&text_color=ffffff&bg_color=0d1117)  
 
