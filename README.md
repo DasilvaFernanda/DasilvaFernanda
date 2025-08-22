@@ -1,27 +1,20 @@
-<!-- 🦇 BATS BANNER (inline SVG — só colar) -->
-<p align="center">
+# Create a ready-to-paste README.md with inline animated SVG bats (no code fences)
+readme = """<p align="center">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="100%" height="140" aria-label="flying bats">
     <defs>
       <filter id="glow">
         <feDropShadow dx="0" dy="0" stdDeviation="2.2" flood-color="#9f5cc4"/>
       </filter>
     </defs>
-
     <rect width="1200" height="140" fill="transparent"/>
-
-    <!-- Bat 1 -->
     <text x="-160" y="50" font-size="38" filter="url(#glow)">🦇
       <animate attributeName="x" from="-160" to="1320" dur="10s" repeatCount="indefinite"/>
       <animate attributeName="y" values="50;36;50;64;50" dur="2.6s" repeatCount="indefinite"/>
     </text>
-
-    <!-- Bat 2 -->
     <text x="-220" y="90" font-size="34" filter="url(#glow)">🦇
       <animate attributeName="x" from="-220" to="1320" dur="11.2s" begin="0.6s" repeatCount="indefinite"/>
       <animate attributeName="y" values="90;78;90;102;90" dur="2.2s" begin="0.6s" repeatCount="indefinite"/>
     </text>
-
-    <!-- Bat 3 -->
     <text x="-180" y="120" font-size="30" filter="url(#glow)">🦇
       <animate attributeName="x" from="-180" to="1320" dur="9.6s" begin="0.3s" repeatCount="indefinite"/>
       <animate attributeName="y" values="120;110;120;114;120" dur="2.4s" begin="0.3s" repeatCount="indefinite"/>
@@ -68,6 +61,8 @@ Currently studying **Computer Science** 💻 and truly passionate about
 ---
 
 🖤💜🦇 *“Code is my poetry, darkness is my vibe.”* 🦇💜🖤
-
-
-
+"""
+path = "/mnt/data/README_with_bats.md"
+with open(path, "w", encoding="utf-8") as f:
+    f.write(readme)
+path
