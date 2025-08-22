@@ -1,16 +1,17 @@
-# 🖤 Hi there, I'm Fernanda 💜
+# 🖤 Hi there, I'm Fernanda 💜 🦇
 
 Passionate about **technology** and about creating things that make life easier.  
-Currently studying **History** 📚 and **Computer Science** 💻, while building projects in  
+Currently studying **Computer Science** 💻 and building projects in  
 **JavaScript, TypeScript, Python, and Electron**.  
 
 - 🔮 Goal: work as a **Forensic Computer Expert** and a **Full-Stack Developer**.  
 - 🖤 I like to keep things dark & minimal, just like my code.  
 - 💜 Always chasing growth and evolution.  
+- 🦇 Night owl coder — better ideas come in the dark.  
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack 🦇
 ![JavaScript](https://img.shields.io/badge/JavaScript-2d2d2d?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2d2d2d?style=for-the-badge&logo=typescript&logoColor=3178c6)
 ![Python](https://img.shields.io/badge/Python-2d2d2d?style=for-the-badge&logo=python&logoColor=3776ab)
@@ -23,7 +24,7 @@ Currently studying **History** 📚 and **Computer Science** 💻, while buildin
 
 ---
 
-## 📌 Highlights
+## 📌 Highlights 🦇
 - 🔐 **Password Generator (Electron)** → desktop app to create strong passwords, with a dark UI.  
 - 🐱 **Cat Quiz (Python)** → fun quiz using arrays/lists, built to practice logic.  
 - 📝 **To-Do / Shopping List (JS)** → simple CRUD with DOM and localStorage.  
@@ -32,7 +33,7 @@ Currently studying **History** 📚 and **Computer Science** 💻, while buildin
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 🦇
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DasilvaFernanda&show_icons=true&theme=tokyonight&title_color=9f5cc4&icon_color=9f5cc4&text_color=ffffff&bg_color=0d1117)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DasilvaFernanda&layout=compact&theme=tokyonight&title_color=9f5cc4&text_color=ffffff&bg_color=0d1117)  
@@ -41,12 +42,13 @@ Currently studying **History** 📚 and **Computer Science** 💻, while buildin
 
 ---
 
-## 🌐 Contacts
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=9f5cc4)](https://www.linkedin.com/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-2d2d2d?style=for-the-badge&logo=vercel&logoColor=9f5cc4)](#)  
-[![Email](https://img.shields.io/badge/Email-2d2d2d?style=for-the-badge&logo=gmail&logoColor=9f5cc4)](mailto:yourmail@example.com)
+## 🌐 Contacts 🦇
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=9f5cc4)](https://www.linkedin.com/)
 
 ---
 
-🖤💜 *“Code is my poetry, darkness is my vibe.”* 💜🖤
+🖤💜🦇 *“Code is my poetry, darkness is my vibe.”* 🦇💜🖤
+
+
+
 
